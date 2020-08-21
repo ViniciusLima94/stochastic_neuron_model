@@ -1,2 +1,2 @@
-# stochastic_neuron_model
+# Stochastic Neuron Model
 Codes for the stochatic neuron model
